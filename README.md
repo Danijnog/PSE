@@ -73,4 +73,4 @@ Para avaliar o comportamento da demanda sob pressão temporal, foram mapeadas **
 
 O modelo qualitativo do sistema identifica **4 ciclos de reforço** (destacados em **vermelho**) e **2 ciclos de equilíbrio** (destacados em **azul**).
 
-![Diagrama de Loop Causal](imagens/diagrama_loop_causal.pdf)
+Verifique a imagem na pasta 'images' do repositório.
